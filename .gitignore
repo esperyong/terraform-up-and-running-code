@@ -53,4 +53,9 @@ bin
 # local database
 mongodb
 deploy/docker-compose/mongo
+.terraform
+*.swo*
+.terraform
+*.tfstate
+*.tfstate.backup
 
